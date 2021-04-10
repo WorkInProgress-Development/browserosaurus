@@ -221,7 +221,7 @@
     "postcss-discard-comments": "^4.0.2",
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
-    "prettier": "^2.0.5",
+    "prettier": "^2.2.1",
     "rimraf": "^3.0.2",
     "style-loader": "^1.2.1",
     "ts-loader": "^7.0.5",
