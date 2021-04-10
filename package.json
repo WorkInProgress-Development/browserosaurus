@@ -206,7 +206,7 @@
     "@types/react-dom": "^16.9.8",
     "@will-stone/eslint-config": "^1.26.1",
     "@will-stone/prettier-config": "^3.1.1",
-    "copy-webpack-plugin": "^6.0.3",
+    "copy-webpack-plugin": "^6.4.1",
     "css-loader": "^3.4.2",
     "dotenv": "^8.2.0",
     "electron": "^10.1.2",
