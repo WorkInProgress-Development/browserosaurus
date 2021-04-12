@@ -1295,10 +1295,10 @@
   resolved "https://registry.yarnpkg.com/@browser-logos/brave/-/brave-3.0.13.tgz#e5c761b299c5f212e0376c266d98b102bd2ad952"
   integrity sha512-Dvd3INXrmtenzdDRl0QFL5UFiK+Rg/225dYzMevczfTdNBzuA5Z6w8OO8btTrQ7BLez6zl9JaicNhVakusKqsg==
 
-"@browser-logos/chrome-canary@^1.1.7":
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/@browser-logos/chrome-canary/-/chrome-canary-1.1.9.tgz#0a5182cc77958fac843982b0f47234d621754557"
-  integrity sha512-F7qPBEQ8ipNCP65adUR1X5kAIZpEBywHxdgVODLyB5z0xpUiML+kfyPQuDHVfunGilBIZlXkzfI5ATaaMiQK8Q==
+"@browser-logos/chrome-canary@^1.1.13":
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/@browser-logos/chrome-canary/-/chrome-canary-1.1.13.tgz#9410b6fcaee15f3c3df30fa08618c800b99c8080"
+  integrity sha512-AsMt2/oXE/pqkhSsYQHyDPIZ7CCTh+eptvwuI0DUp0noO2JZkEnnxvA9CPybTBsVhwbh4rn1ktVDm/xzcVSpHA==
 
 "@browser-logos/chrome@^1.0.15":
   version "1.0.17"
